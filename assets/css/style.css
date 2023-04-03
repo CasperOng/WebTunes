@@ -76,14 +76,6 @@
 
 }
 
-
-
-
-
-/*-----------------------------------*\
-  #RESET
-\*-----------------------------------*/
-
 *,
 *::before,
 *::after {
@@ -91,6 +83,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.logo .title-lg {
+  font-family: 'Major Mono Display', monospace;
+}
+
 
 li { list-style: none; }
 
